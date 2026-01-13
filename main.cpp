@@ -4,5 +4,10 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello world" << endl;
+int inches;
+cin >> inches;
+
+int inperfoot = 12;
+
 }
+
